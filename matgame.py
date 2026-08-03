@@ -45,12 +45,12 @@ y=x**2
 # fig=plt.figure()
 # axis=fig.add_axes([0.1,0.1,0.8,0.8])
 # axis.plot(x,y)
-# plt.savefig("thegameoftatti")
+# plt.savefig("anyphoto.jpg")
 # plt.show()
 '''working with the images '''
 
 
-# img=mpimg.imread("vaidika.jpeg")
+# img=mpimg.imread("anyphoto.jpg")
 # plt.imshow(img)
 # plt.axis("off")
 # plt.show()
