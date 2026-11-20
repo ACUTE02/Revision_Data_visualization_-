@@ -91,7 +91,6 @@ The project includes examples of line plots, subplots, object-oriented plotting,
 Python-Data-Visualization/
 │
 ├── matgame.py
-├── vaidika.jpeg
 ├── README.md
 └── requirements.txt
 ```
